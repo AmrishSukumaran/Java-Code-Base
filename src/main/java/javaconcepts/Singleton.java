@@ -2,11 +2,8 @@ package javaconcepts;
 
 public class Singleton {
 	
-	
-	
 	//Singleton class has only one object or instance of class which returns the one object instance of the class at a time
-	
-	
+
 //	Steps to design:
 //		1.declare a private constructor
 //		2.create a public static method which returns the object of the single ton class
